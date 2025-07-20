@@ -1,0 +1,15 @@
+=== The user information ===
+The account number is: 001
+The account name is: Hawraa
+The balance is: 224.0
+=== The TransactionHistory ===
+2025-07-20 Deposit: 250.0 OMR
+2025-07-20 Withdraw: 26.0 OMR
+-----
+=== The user information ===
+The account number is: 002
+The account name is: Noor
+The balance is: 60.0
+=== The TransactionHistory ===
+2025-07-20 Deposit: 60.0 OMR
+-----
